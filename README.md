@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
