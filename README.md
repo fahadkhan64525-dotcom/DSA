@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
