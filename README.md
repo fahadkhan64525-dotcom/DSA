@@ -47,16 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0007-reverse-integer) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Monotonic Stack
 |  |
