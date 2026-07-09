@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
