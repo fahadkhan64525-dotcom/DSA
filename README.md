@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0078-subsets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
