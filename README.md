@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0704-binary-search) |
+| [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
