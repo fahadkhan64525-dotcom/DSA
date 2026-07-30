@@ -149,18 +149,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
