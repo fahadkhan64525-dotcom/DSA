@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -138,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0098-validate-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
