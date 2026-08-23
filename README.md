@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
