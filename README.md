@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
