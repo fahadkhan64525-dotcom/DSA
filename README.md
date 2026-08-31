@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
