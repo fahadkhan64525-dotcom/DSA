@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0125-valid-palindrome) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
