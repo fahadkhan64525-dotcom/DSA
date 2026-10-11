@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
