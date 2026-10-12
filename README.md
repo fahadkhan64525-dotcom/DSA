@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0070-climbing-stairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
