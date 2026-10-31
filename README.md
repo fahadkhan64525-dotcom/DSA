@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
