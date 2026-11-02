@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0922-sort-array-by-parity-ii) |
