@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/fahadkhan64525-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
